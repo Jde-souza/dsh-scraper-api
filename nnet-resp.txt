@@ -1,0 +1,1810 @@
+<!DOCTYPE html>
+<html lang="es" id="proyecto_sublimesolutions" itemscope itemtype="http://schema.org/WebPage">
+<head>
+<meta name="author" content="https://www.SUBLIMESOLUTIONS.com"/>
+<meta name="theme-color" content="#3c3c3b"/>
+<meta name="msapplication-navbutton-color" content="#3c3c3b"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="#3c3c3b"/>
+<meta name="msapplication-TileColor" content="#3c3c3b"/>
+<title>NNET : Notebooks, Gaming, Tecnologia y Hogar</title>
+<meta name='theme-color' content='#191919'/>
+<meta name="description" content="Encontr� ofertas en tecnolog�a, electrodom�sticos y productos gamer. Compr� online con env�o r�pido y atenci�n personalizada."/>
+<meta name="keywords" content="notebooks equipos gamer articulos para el hogar venta a empresas informatica tecnologia"/>
+<link rel="canonical" href="https://www.nnet.com.uy/buscar/resultado.php?q=auricular"/>
+<base href="https://www.nnet.com.uy">
+<meta name="viewport" content="initial-scale=1,maximum-scale=2"/><meta property="og:site_name" content="NNET"/>
+<meta property="og:title" content="NNET : Notebooks, Gaming, Tecnologia y Hogar"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.nnet.com.uy/buscar/resultado.php?q=auricular?lang=es"/>
+<meta property="og:image" content="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/logo_social.png"/>
+<meta property="og:description" content="Encontr&aacute; ofertas en tecnolog&iacute;a, electrodom&eacute;sticos y productos gamer. Compr&aacute; online con env&iacute;o r&aacute;pido y atenci&oacute;n personalizada."/>
+<meta name="twitter:site" content="NNET"/>
+<meta name="twitter:title" content="NNET : Notebooks, Gaming, Tecnologia y Hogar"/>
+<meta name="twitter:description" content="Encontr&aacute; ofertas en tecnolog&iacute;a, electrodom&eacute;sticos y productos gamer. Compr&aacute; online con env&iacute;o r&aacute;pido y atenci&oacute;n personalizada."/>
+<meta name="twitter:creator" content="NNET : Notebooks, Gaming, Tecnologia y Hogar"/>
+<meta name="twitter:image" content="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/logo_social.png"/>
+<meta name="twitter:card" content="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/logo_social.png"/>
+<meta itemprop="url" content="http://www.nnet.com.uy/buscar/resultado.php?q=auricular?lang=es"/>
+<meta itemprop="name" content="NNET : Notebooks, Gaming, Tecnologia y Hogar"/>
+<meta itemprop="headline" content="NNET : Notebooks, Gaming, Tecnologia y Hogar"/>
+<meta itemprop="description" content="Encontr&aacute; ofertas en tecnolog&iacute;a, electrodom&eacute;sticos y productos gamer. Compr&aacute; online con env&iacute;o r&aacute;pido y atenci&oacute;n personalizada."/><meta name="format-detection" content="telephone=no"/>
+<link id="css_principal" rel="stylesheet" href="https://www.nnet.com.uy/includes/styles_generados/nnet2020comuy/buscar.php?seccion=buscar&idsite=productos&amp;56" type="text/css" media="screen,print"/>
+
+
+<link rel="icon" type="image/png" href="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/svg+xml" href="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/favicon.svg"/>
+<link rel="shortcut icon" href="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.nnet.com.uy/artworks/artworks_nnet2020comuy/apple-touch-icon.png"/>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/includes/scripts/plantilla_js.php?seccion=buscar&r=10"></script>
+
+
+
+
+
+
+
+
+
+
+
+<!-- Meta Pixel Code -->
+<meta name="facebook-domain-verification" content="4aob291fnutvk01rayatx7ac5ghm64" />
+<script>
+    !function(f,b,e,v,n,t,s){
+        if(f.fbq)return;
+        n=f.fbq=function(){
+                    n.callMethod?
+                    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                    if(!f._fbq)f._fbq=n;
+                    n.push=n;
+                    n.loaded=!0;
+                    n.version='2.0';
+                    n.queue=[];
+                    t=b.createElement(e);
+                    t.async=!0;
+                    t.src=v;
+                    s=b.getElementsByTagName(e)[0];
+                    s.parentNode.insertBefore(t,s)
+                }(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '644763870473151');
+        fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=644763870473151&ev=PageView&noscript=1"/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Google Analytics Code -->
+<script>
+    (function(i,s,o,g,r,a,m){
+        i['GoogleAnalyticsObject']=r;
+        i[r] =     i[r] || 
+                function(){
+                    (i[r].q=i[r].q||[]).push(arguments)
+                },
+                i[r].l=1*new Date();
+                a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+                a.async=1;
+                a.src=g;
+                m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-44571772-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Code -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 1002086134 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1002086134"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1002086134');
+</script>
+<!-- End Global site tag (gtag.js) - Google Ads: 1002086134 -->
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;
+        j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TGVGV3Z');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SG275F103T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SG275F103T');
+</script>
+<!-- End Google tag (gtag.js) -->
+
+<script>
+(function(d,t,u,s,c,f){f=function(m){m=new Date();return m.getFullYear()+''+(m.getMonth()+1)+''+m.getDate()+'T'+m.getHours()+''+m.getMinutes()+''+m.getSeconds()};
+u='https://widgets-static.embluemail.com/accounts/110346329E67D7339A/scripts/sw_11034.js?ts='+f();s=d.createElement(t);
+s.async=1;s.src=u;c=d.getElementsByTagName(t)[0];c.parentNode.insertBefore(s,c);})(document,'script');
+</script></head>
+
+
+<body class="idsite_productos internas sec_buscar  ">
+
+
+<div class="SME-fondo"></div><a id="top"></a>
+
+				<div class="SME-buscar_seccion smefx2"></div>
+	<div class="cargando_pagina"><div class="acc"></div><div class="acc2"></div><div class="loadercont"><div class="loader"></div><div class="estado"></div></div></div>
+<div id="contenedor_1" class="contenedor_1"><div class="SME-contenedor_1"></div>
+  <!--file_ini:/msgs/layout/dhtml_alert.php-->
+<div id="dhtml_alert" class="dhtml_alert"><div class="SME-alerta"></div><div class="cont"><div class="cont2">
+<div class="whead">
+<div class="wtitle" id="dhtml_alert_title">�</div>
+<div class="wclose"><button id="btn_cerrar_dhmlalert" onclick="cerrar_dhtmlalert()"><i class="fal fa-times"></i></button></div>
+</div>
+<div class="wcont"><div class="wcontent" id="dhtml_alert_MSG"></div></div>
+</div></div></div>
+<div id="ly_transparente" class="u"></div>
+<!--file_ini:/productos/ordenes3/layout/dhtml_alert_alt.php-->
+<div id="dhtml_alert_alt" class="dhtml_alert dhtml_alert_alt"><div class="SME-alerta"></div><div class="cont"><div class="acc" onclick="DHTMLALERT_ALT('')"></div><div class="cont2">
+<div class="whead">
+<div class="wtitle nosel">&nbsp;</div>
+<div class="wclose"><div class="opb cerrar"><button id="btn_cerrar_dhmlalert_alt" onclick="DHTMLALERT_ALT('')"><i class="fal fa-times"></i></button></div></div>
+</div>
+<div class="wcont"><div class="wcontent" id="dhtml_alert_MSG_alt"></div></div>
+</div></div></div>
+    <div class="gencont1" id="gencont1"><div class="SME-contenedor_magico_1"></div><div class="gencont1cont">
+    <div class="contenedor_3"><div class="SME-contenedor_3"></div>
+      <!--file_ini:/includes/layout/design/header.php-->
+<header id="header"><div class="cont"><div class="SME-cabecera"></div>
+<div class="logocont">
+	<div id="logo" class="logo_proyecto"><a href="/"><img
+	src="/artworks/artworks_nnet2020comuy/logo.svg?1755877144"
+	width="150" height="68"
+		alt="NNET"
+	/></a></div>
+<div class="proyecto"><a href="/">NNET</a></div>
+</div>
+<div id="acc1"></div><div id="acc2"></div><div id="acc3"></div>
+</div></header>
+
+      <!--file_ini:/buscar/layout/buscar_dinamico.php-->
+<div class="buscar_dinamico"><div class="buscar_dinamico_cont" id="buscador_dinamico">
+
+<div class="buscador_select_hide" onclick="llamar_buscador_dinamico()"><i class="fal fa-times"></i></div>
+<div class="buscador_select_back" onclick="llamar_buscador_dinamico()"></div>
+<div class="buscar_dinamico_cont1" id="buscar_dinamico_cont1">
+
+<script>
+function llamar_buscador_dinamico(){
+aplicar_quitar_clase('buscador_dinamico','buscar_dinamico_cont_on');
+}
+var urls                        = new Array();
+var ultima_busqueda_dinamica_js = "";
+var ignorar_enter               = 0;
+var prevenir_ir_a_url           = false;
+
+var TPL_FORM_AGREGAR  = '<em class="producto_comprar_boton">[[boton]]</em>';
+var TPL_BOTON_AGREGAR = '<button class="submit3 [[vh]]" id="btn_agregar_cart[[id]]" onclick="agregaralcarrito(\'[[id]]\',[[id_atributo1]],[[id_atributo2]],[[stock]],1);"><i class=\'fa fa-shopping-cart\'></i><b>Comprar</b></button>';
+
+var CTE_COMPRAR_DESDE_BUSCADOR               = 0;
+var CTE_QUIENES_PUEDEN_COMPRAR               = 2;
+var CTE_MOSTRAR_PRECIO_USUARIO_NO_REGISTRADO = 1;
+var CTE_LOGUEADO                             = 0;
+
+
+function agregaralcarrito(id_producto, id_atributo1, id_atributo2, stock, cantidad)
+{
+    prevenir_ir_a_url = true;
+
+    if  ( CTE_LOGUEADO )
+    {
+        alert("agregaralcarrito("+id_producto+", "+id_atributo1+", "+id_atributo2+", "+stock+", "+cantidad+") -> <COMPRAR>");
+    }
+    else
+    {
+        if  ( CTE_QUIENES_PUEDEN_COMPRAR == 2 && CTE_MOSTRAR_PRECIO_USUARIO_NO_REGISTRADO == 1 )
+        {
+            if  ( stock >= cantidad )
+                alert("agregaralcarrito("+id_producto+", "+id_atributo1+", "+id_atributo2+", "+stock+", "+cantidad+") -> <COMPRAR>");
+            else
+                alert("agregaralcarrito("+id_producto+", "+id_atributo1+", "+id_atributo2+", "+stock+", "+cantidad+") -> <NO HAY STOCK>");
+        }
+        else
+        {
+            if  ( stock > 0 )
+                alert("agregaralcarrito("+id_producto+", "+id_atributo1+", "+id_atributo2+", "+stock+", "+cantidad+") -> <ALERTA_REGISTRO>");
+            else
+                alert("agregaralcarrito("+id_producto+", "+id_atributo1+", "+id_atributo2+", "+stock+", "+cantidad+") -> <NO HAY STOCK>");
+        }
+    }
+}
+
+function str_trim(str)
+{
+    if (str == null) str = "";
+
+    str = "" + str;
+    return str.replace(/^\s*|\s*$/g,"");
+}
+
+function reemplazar_string(s, viejo, nuevo)
+{
+    var ret = s;
+
+    var p = ret.indexOf( viejo );
+    while ( p != -1 )
+    {
+        ret = ret.replace( viejo, nuevo);
+        p = ret.indexOf( viejo );
+    }
+    return ret;
+}
+
+function comprar_desde_buscador_form(option)
+{
+    var id    = //option.tiene_precio          &&
+                option.mostrar_boton_comprar                    ?   option.id
+                    :   '';
+
+    var boton = TPL_BOTON_AGREGAR;
+        boton = reemplazar_string( boton, "[[id]]",           id                  );
+        boton = reemplazar_string( boton, "[[id_atributo1]]", option.id_atributo1 );
+        boton = reemplazar_string( boton, "[[id_atributo2]]", option.id_atributo2 );
+        boton = reemplazar_string( boton, "[[stock]]",        option.stock        );
+
+    if  ( id != '' )
+        boton = reemplazar_string( boton, "[[vh]]", "");
+    else
+        boton = reemplazar_string( boton, "[[vh]]", "vh" );
+
+    var ret   = (id != '') &&
+                CTE_COMPRAR_DESDE_BUSCADOR &&
+                ( (CTE_QUIENES_PUEDEN_COMPRAR == 2) ||
+                  (CTE_QUIENES_PUEDEN_COMPRAR == 1  && CTE_LOGUEADO == 1 )
+                )
+                    ?   reemplazar_string( TPL_FORM_AGREGAR, "[[boton]]", boton )
+                    :   '';
+    return ret;
+}
+
+function comprar_desde_buscador_atributos(option)
+{
+    var ret = '';
+
+    if  ( CTE_COMPRAR_DESDE_BUSCADOR )
+    {
+        var ats = '';
+
+        if  ( ats != '' && option.nombre_atributo1 != '' ) ats += ', ';
+        ats += option.nombre_atributo1;
+
+        if  ( ats != '' && option.nombre_atributo2 != '' ) ats += ', ';
+        ats += option.nombre_atributo2;
+
+        if  ( ats != '')
+            ret += '<em class=\"producto_buscar_atributo\">' + ats + '</em>'
+    }
+    return ret;
+}
+
+function format_option(option)
+{
+    var nombre_prod, precio;
+
+    nombre_prod = option.text;
+    if  ( ! option.id )                           return nombre_prod;
+
+    if (option.text==null || option.text=="null") option.text = "";
+
+    if (nombre_prod==null || nombre_prod=="null") nombre_prod = "";
+
+    if (option.tiene_precio                     ) precio      = '<em class=\"extra\"><strong>' + option.precio + '</strong></em>';
+    else                                          precio      = '<em class=\"extra\"></em>';
+
+    var regexp  = new RegExp(ultima_busqueda_dinamica_js,"i");
+    nombre_prod = nombre_prod.split(regexp).join("<font>"+ultima_busqueda_dinamica_js+"</font>");
+
+    var ret = $(
+                '<span>' +
+                    (option.url_img == ""
+                        ? ""
+                        : '<em class=\"bfoto\"><img src="' + option.url_img + '" alt=""/></em>'
+                    ) +
+                    '<em class=\"nombre\">' + nombre_prod + '</em>' +
+                    comprar_desde_buscador_atributos(option) +
+                    precio +
+                    comprar_desde_buscador_form(option) +
+                '</span>'
+               );
+    urls["U"+option.id]=option.url;
+
+    return ret;
+}
+
+function init_buscador_dinamico_jquery()
+{
+    var select2_obj = $("#buscador_select");
+
+    var options =   {
+                                        placeholder:    "Buscar...",
+
+                    getValue:       function(element)
+                                    {
+                                        return element.text;
+                                    },
+
+                    url:            function(phrase)
+                                    {
+                                        ultima_busqueda_dinamica_js = phrase;
+                                        var idc = getObj("buscador_dinamico_categoria");
+                                        if (idc)
+                                            idc =  idc.value;
+                                        else
+                                            idc = 0;
+
+                                        var url = "https://www.nnet.com.uy/productos/scripts/buscador_dinamico_productos.php?p=0&idc=" + idc + "&q=" + encodeURIComponent(phrase);
+                                        return url;
+                                    },
+                    requestDelay:   500,
+
+                    ajaxSettings:   {
+                                    beforeSend:     function( /*jqXHR*/ jqXHR, /*PlainObject*/ settings )
+                                                    {
+                                                        $("#buscador_select_loading").show();
+                                                    },
+                                    complete:       function( /*jqXHR*/ jqXHR, /*String*/ textStatus )
+                                                    {
+                                                        $("#buscador_select_loading").hide();
+                                                    }
+                                    },
+
+                    template:       {
+                                    type: "custom",
+                                    method:        function(value, item)
+                                            {
+                                            return format_option( item );
+                                            }
+                                    },
+
+                    list:           {
+                                    maxNumberOfElements: 26,
+                                    onChooseEvent:   function()
+                                                    {
+                                                        try
+                                                        {
+                                                            var id_seleccionado = select2_obj.getSelectedItemData();
+                                                            var u = urls["U"+id_seleccionado.id];
+                                                            setTimeout( function (){location.href=u;}, 100 );
+                                                        }
+                                                        catch(err)
+                                                        {
+                                                        }
+                                                    },
+                                    onKeyEnterEvent:function()
+                                                    {
+                                                        try
+                                                        {
+                                                            if  ( select2_obj.getSelectedItemIndex() != -1 )
+                                                                return;
+                                                            var phrase = select2_obj.val().trim();
+                                                            if  ( phrase == "" )
+                                                                return;
+
+                                                            var idc = getObj("buscador_dinamico_categoria");
+                                                            if (idc)
+                                                                idc =  idc.value;
+                                                            else
+                                                                idc = 0;
+
+                                                            var u = '/productos/?secc=productos&buscar=' + encodeURIComponent(phrase);
+
+                                                            if (idc>0) u+="&path=0."+idc;
+
+                                                            setTimeout( function (){location.href=u;}, 100 );
+}
+                                                        catch(err)
+                                                        {
+                                                        }
+                                                    },
+                                    }
+                    };
+
+    select2_obj.easyAutocomplete(options);
+
+/*
+    select2_obj.select2(
+        {
+            containerCssClass:  'tpx-select2-container select2-container-sm',
+            dropdownCssClass:   'tpx-select2-drop',
+
+            templateSelection:  format_option,
+            templateResult:     format_option,
+            placeholder:        "Buscar...",
+
+            minimumInputLength: 1,
+            ajax:
+            {
+                url:            "https://www.nnet.com.uy/productos/scripts/buscador_dinamico_productos.php",
+                dataType:       'json',
+                delay:          250,
+                data:           function (params)
+                                {
+                                    urls                        = new Array();
+                                    ultima_busqueda_dinamica_js = params.term;
+                                    return  {
+                                            q:      params.term,
+                                            page:   params.page
+                                            };
+                                },
+                processResults: function (data, page)
+                                {
+                                    return  {
+                                            results: data
+                                            };
+                                },
+                cache:          true
+            }
+        }
+    );
+
+    select2_obj.on( "select2:selecting",
+                    function(e)
+                    {
+                        //e.preventDefault();
+
+                        var id_seleccionado = e.params.args.data.id;
+                        select2_obj.id_seleccionado = null;
+
+                        prevenir_ir_a_url = false;
+                        setTimeout( function ()
+                                    {
+                                        if  ( prevenir_ir_a_url )
+                                            return;
+
+                                        select2_obj.id_seleccionado = id_seleccionado;
+                                        select2_obj.val(id_seleccionado);
+                                        select2_obj.trigger('change');
+                                        select2_obj.select2('close');
+                                    }, 100 )
+                    }
+                  );
+
+    select2_obj.on( "change",
+                    function(e)
+                    {
+                        ignorar_enter = 1;
+                        var id_seleccionado = select2_obj.id_seleccionado;
+                        //var id_seleccionado = $(this).val();
+
+                        //if ($(this).val()!="" && $(this).val().split("+").join("").split(" ").join("")!="")
+                        if ( id_seleccionado != null && id_seleccionado != "" )
+                        //if ( id_seleccionado                                         != "" &&
+                        //     id_seleccionado.split("+").join("").split(" ").join("") != "" )
+                        {
+                            try
+                            {
+                                location.href=urls["U"+id_seleccionado];
+                            }
+                            catch(err)
+                            {
+                            }
+                        }
+                    }
+                  );
+    var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform);
+    if  ( iOS )
+    {
+        // 1
+        $('.select2-container').click(  function (e)
+                                        {
+                                            $(e.currentTarget).prev('select').data('select2').$dropdown.find('.select2-search__field').focus();
+                                        }
+                                    );
+
+    }
+*/
+}
+
+function sublime_enter()
+{
+    if  ( ignorar_enter )
+    {
+        ignorar_enter = 0;
+        return true;
+    }
+
+    var   t =  undefined;
+
+    if  ( t == undefined ) t = $('.select2-search__field')[0].value;    if  ( t == undefined ) t = $("#buscador_select").text();    t = str_trim( t )
+
+    if  ( t == "")
+        return true;
+
+    prevenir_ir_a_url = true;
+    $("#buscar_text_dinamico").val( t );
+    $("#frm_buscador_dinamico").submit();
+}
+
+$(document).ready( init_buscador_dinamico_jquery );
+</script>
+
+<form id="frm_buscador_dinamico" method="get" action="/buscar/" onsubmit="">
+<select onchange="getObj('buscador_select').value='';" id="buscador_dinamico_categoria" name="buscador_dinamico_categoria">
+<option>Categor�as...</option>
+<option value="2666">Notebooks</option><option value="3365">PCs</option><option value="2506">Hogar</option><option value="2139">Tecnologia</option><option value="3126">Mundo Gamer</option><option value="2141">Celulares</option><option value="2161">Inform�tica</option><option value="3757">Apple</option><option value="3260">Combos</option><option value="3798">Empresas</option></select>
+<input type="hidden" name="buscar" id="buscar_text_dinamico"/>
+</form>
+
+<input id="buscador_select" type="text" placeholder="Buscar..." value=""/>
+<div id="buscador_select_loading" style="display:none"><div class='cargando'><div class='loadercont'><div class='loader'></div></div></div></div>
+
+<div class="SME-buscar_dinamico"></div>
+</div></div></div>
+      <div class="tel" id="tel"><div class="telcont"><div class="SME-telefono_1"></div>
+	<div class="sucursal suc1">
+		
+		<div class="telcont0">
+			<span class="telmensaje"><a href="https://wa.me/59891032323" target="_blank"><i class="fab fa-whatsapp"></i><span>Retiro en Nnet (Tres Cruces)</span></a></span>
+			</div>
+		</div>
+		<div class="sucursal2 suc15">
+		
+		<div class="telcont0">
+			<span class="telmensaje"><a href="https://wa.me/59891032323" target="_blank"><i class="fab fa-whatsapp"></i><span> Clientes Web</span></a></span>
+			</div>
+		</div>
+		<div class="sucursal2 suc13">
+		
+		<div class="telcont0">
+			<span class="telmensaje"><a href="https://wa.me/59897538962" target="_blank"><i class="fab fa-whatsapp"></i><span>Venta a Empresas</span></a></span>
+			</div>
+		</div>
+		<div class="sucursal2 suc17">
+		
+		</div>
+		<div class="sucursal2 suc18">
+		
+		</div>
+		<div class="sucursal2 suc14">
+		
+		</div>
+	</div></div>      <!--file_ini:/includes/layout/design/bienvenida.php-->
+<div id="bienvenida"><div class="bienvenidacont"><div class="bienvenidacont2"><div class="SME-bienvenida"></div>
+
+<div class="usu">
+			<div id="usufoto2" onclick="
+							aplicar_quitar_clase('ly_login','login_on');getObj('frm_login').usuario.focus()
+					"><i class="fa fa-user"></i></div>
+	
+	<div class="bienvenido" >
+
+	<div class="nusu">
+			<span class="saludo">Bienvenid@</span>
+		<span class="invitado" onclick="aplicar_quitar_clase('ly_login','login_on');getObj('frm_login').usuario.focus()">Invitado</span>
+		</div>
+
+	</div>
+</div>
+
+
+
+<div class="compra " id="detallecompra" style="">
+
+
+<!--file_ini:/productos/ordenes3/layout/cart_header.php-->
+<div class="detallecompra" id="detallecompracont" >
+<span class="compra_ico"><i class="fa fa-shopping-cart"></i></span>
+<span id="items_compra_frase">Mi carrito</span>
+<span id="items_de_compra"><em>0</em> <span>�tem</span></span>
+<span id="total_de_compra"><em>USD</em><b>0</b></span>
+</div>
+
+<div id="pasarporcaja">
+	<div class="vercompra"><a href="javascript:aplicar_quitar_clase('ly_cart','carrito_activo')">Ver compra</a></div>
+<div class="finalizar"><a href="/productos/ordenes">Finalizar compra</a></div>
+<div id="but_pasarporcajaacc"></div>
+</div>
+<div class="fx"></div>
+
+</div>
+
+		<div class="fav" id="user_fav"><a href="/favoritos/"><i class='far fa-heart'></i><font>Favoritos</font><span id="fav_counter"><b>0</b></span></a></div>
+		
+
+</div></div>
+<div id="bienvenida_overlay" onclick="display_undisplay('panel_opciones,bienvenida_overlay')" style="display:none"></div>
+</div>
+    </div>
+    <!--file_ini:/productos/categorias/categorias_expandibles.php-->
+    <!--file_ini:/productos/categorias/categorias_expandibles_por_css.php-->
+<div class="navmenucont" id="productos_categorias_3"><div class="navmenucont2"><div class="productos_categorias_3">
+<div class="SME-productos_categorias_3 emsini"></div>
+
+
+<div onclick="location.href='/productos/'" class="img"><span></span></div><div class="SME-categorias_3"></div>
+<div class="csscatlab" onclick="aplicar_quitar_clase('productos_categorias_3','csscat_on');"><span class="ico"><i class="fa fa-bars"></i></span><span class="txt">Productos</span></div>
+<ul id="navMenuProductos" class="cont"><li class="fx3"></li>
+			<li class='csscat1'>
+			<div class='fotocat'><a aria-label="Notebooks" href="/notebooks/"></a></div>
+			<div class="catcont">
+			<a href="/notebooks/"><span>Notebooks</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat1_n2'>
+<li><a  href="/notebooks-recomendados-por-nnet/">Recomendados de NNET</a>
+<li><a  href="/notebook-estudio-trabajo-y-diseno/">Estudio y Trabajo</a>
+<li><a  href="/notebooks-gamer/">Gamer</a>
+<li><a  href="/notebooks-refabricados/">Refabricados</a>
+</ul>
+</li>
+			<li class='csscat5'>
+			<div class='fotocat'><a aria-label="PCs" href="/pc-gamers/"></a></div>
+			<div class="catcont">
+			<a href="/pc-gamers/"><span>PCs</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat5_n2'>
+<li><a  href="/pc-armados-amd/">PCs Gamer AMD</a>
+<li><a  href="/equipos-pc-armadas-intel/">PCs Gamer Intel</a>
+<li><a  href="/productos/productos.php?path=0.3365.4323&amp;secc=productos">PCs Oficina</a>
+</ul>
+</li>
+			<li class='csscat6'>
+			<div class='fotocat'><a aria-label="Hogar" href="/hogar/"></a></div>
+			<div class="catcont">
+			<a href="/hogar/"><span>Hogar</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat6_n2'>
+<li><a  href="/refrigeracion/">Refrigeraci�n</a>
+<ul class='dl-submenu'>
+<li><a  href="/heladeras/">Heladeras</a></li>
+<li><a  href="/vitrinas-comerciales-heladeras/">Vitrinas comerciales</a></li>
+<li><a  href="/freezers/">Freezers</a></li>
+<li><a  href="/frigobares/">Frigobares</a></li>
+<li><a  href="/cavas-para-vinos/">Cavas para Vinos</a></li>
+</ul>
+<li><a  href="/lavado/">Lavado</a>
+<ul class='dl-submenu'>
+<li><a  href="/lavarropas/">Lavarropas</a></li>
+<li><a  href="/lavasecarropas/">Lavasecarropas</a></li>
+<li><a  href="/lavavajillas/">Lavavajillas</a></li>
+<li><a  href="/secarropas/">Secarropas</a></li>
+<li><a  href="/productos/productos.php?path=0.2506.3981.4170&amp;secc=productos">Hidrolavadoras</a></li>
+</ul>
+<li><a  href="/coccion/">Cocci�n</a>
+<ul class='dl-submenu'>
+<li><a  href="/anafes/">Anafes</a></li>
+<li><a  href="/campanas/">Campanas</a></li>
+<li><a  href="/cocinas/">Cocinas</a></li>
+<li><a  href="/hornos/">Hornos</a><ul class='dl-submenu csscat6_n2'>
+<li><a  href="/productos/productos.php?path=0.2506.3974.3979.4292&amp;secc=productos">De Empotrar</a></li>
+<li><a  href="/horno-electrico/">Electrico</a></li>
+</ul>
+</li>
+<li><a  href="/microondas/">Microondas</a></li>
+</ul>
+<li><a  href="/calefones/">Calefones o Termotanques</a>
+<li><a  href="/climatizacion/">Climatizaci�n</a>
+<ul class='dl-submenu'>
+<li><a  href="/calefaccion/">Calefacci�n</a><ul class='dl-submenu csscat6_n2'>
+<li><a  href="/estufas-a-supergas/">Estufas a Supergas</a></li>
+<li><a  href="/estufas-electricas/">Estufas El�ctricas</a></li>
+<li><a  href="/radiadores-de-aceite/">Radiadores de Aceite</a></li>
+</ul>
+</li>
+<li><a  href="/aire-acondicionado/">Aire Acondicionado</a></li>
+<li><a  href="/deshumificador/">Deshumidificador</a></li>
+<li><a  href="/ventilacion/">Ventilaci�n</a></li>
+</ul>
+<li><a  href="/beauty/">Beauty</a>
+<ul class='dl-submenu'>
+<li><a  href="/afeitadoras-y-cortabarba/">Afeitadora y cortabarba</a></li>
+<li><a  href="/balanzas-para-el-bano/">Balanzas para el ba�o</a></li>
+<li><a  href="/cepillos-de-pelo/">Cepillos de Pelo</a></li>
+<li><a  href="/crota-pelo/">Corta Pelo</a></li>
+<li><a  href="/productos/productos.php?path=0.2506.4312.4313&amp;secc=productos">Planchita de Pelo</a></li>
+<li><a  href="/rizadores-de-pelo/">Rizadores de Pelo</a></li>
+<li><a  href="/secadores-de-pelo/">Secadores de Pelo</a></li>
+</ul>
+<li><a  href="/productos/productos.php?path=0.2506.4294&amp;secc=productos">Herramientas para el Hogar</a>
+<li><a  href="/televisores-smart/">Televisores</a>
+<ul class='dl-submenu'>
+<li><a  href="/smart-tv/">Tv</a></li>
+<li><a  href="/antenas-para-televisores/">Antenas</a></li>
+<li><a  href="/soportes-para-televisores/">Soportes</a></li>
+<li><a  href="/tv-box-y-android-tv/">Tv Box y Android</a></li>
+</ul>
+<li><a  href="/pequenos-electrodomesticos/">Peque�os Electrodom�sticos</a>
+<ul class='dl-submenu'>
+<li><a  href="/para-cocina/">Para Cocina</a><ul class='dl-submenu csscat6_n2'>
+<li><a  href="/batidoras/">Batidoras</a></li>
+<li><a  href="/cafeteras/">Cafeteras</a></li>
+<li><a  href="/freidoras/">Freidoras</a></li>
+<li><a  href="/soperas/">Soperas</a></li>
+<li><a  href="/exprimidores-y-jugueras/">Exprimidores y Jugueras</a></li>
+<li><a  href="/jarras-electricas/">Jarras Electricas</a></li>
+<li><a  href="/licudoras/">Licuadoras</a></li>
+<li><a  href="/mixer/">Mixer</a></li>
+<li><a  href="/procesadores-de-alimentos/">Procesadores de Alimentos</a></li>
+<li><a  href="/sandwicheras-y-tostadoras/">Sandwicheras y Tostadoras</a></li>
+<li><a  href="/wok-y-sartenes/">Wok y Sartenes</a></li>
+</ul>
+</li>
+<li><a  href="/para-hogar/">Para Hogar</a><ul class='dl-submenu csscat6_n2'>
+<li><a  href="/aspiradoras-para-el-hogar/">Aspiradoras</a></li>
+<li><a  href="/aspiradoras-robot/">Aspiradoras Robot</a></li>
+<li><a  href="/escobas-electricas/">Escobas Electricas</a></li>
+<li><a  href="/maquinas-de-coser/">Maquinas de Coser</a></li>
+<li><a  href="/planchas/">Planchas</a></li>
+<li><a  href="/telefonos-comunes/">Telefonos Comunes</a></li>
+</ul>
+</li>
+</ul>
+<li><a  href="/bicicletas/">Bicicletas</a>
+<ul class='dl-submenu'>
+<li><a  href="/productos/productos.php?path=0.2506.4248.4253&amp;secc=productos">de Paseo</a></li>
+<li><a  href="/productos/productos.php?path=0.2506.4248.4252&amp;secc=productos">Monta�a</a></li>
+</ul>
+<li><a  href="/muebles/">Muebles</a>
+<ul class='dl-submenu'>
+<li><a  href="/escritorios/">Escritorios y Racks</a></li>
+<li><a  href="/juegos-de-comedor/">Juegos de Comedor</a></li>
+<li><a  href="/lampara/">Lamparas</a></li>
+<li><a  href="/mesas-de-luz/">Mesas de Luz</a></li>
+<li><a  href="/puff/">Puff</a></li>
+<li><a  href="/sillas-de-hogar/">Sillas Sillones Sofas</a></li>
+</ul>
+<li><a  href="/mundo-gadget/">Mundo Gadget</a>
+<li><a  href="/seguridad-para-el-hogar/">Seguridad</a>
+<ul class='dl-submenu'>
+<li><a  href="/camaras-wifi/">Camaras</a></li>
+<li><a  href="/cerraduras-inteligentes/">Cerraduras Inteligentes</a></li>
+<li><a  href="/dvr-nvr/">Dvr</a></li>
+<li><a  href="/sensores-smart/">Sensores Smart</a></li>
+<li><a  href="/timbres-y-porteros-electricos/">Timbres y Porteros Electricos</a></li>
+</ul>
+<li><a  href="/jardin-exterior/">Jardin y Exterior</a>
+<li><a  href="/dron/">Drones</a>
+<ul class='dl-submenu'>
+<li><a  href="/accesorios-para-drones/">Accesorios</a></li>
+<li><a  href="/drones/">Equipos</a></li>
+</ul>
+<li><a  href="/fitness-deportes/">Fitness</a>
+<ul class='dl-submenu'>
+<li><a  href="/productos/productos.php?path=0.2506.4236.4238&amp;secc=productos">Aparato de Musculacion</a></li>
+</ul>
+</ul>
+</li>
+			<li class='csscat2'>
+			<div class='fotocat'><a aria-label="Tecnologia" href="/tecnologia/"></a></div>
+			<div class="catcont">
+			<a href="/tecnologia/"><span>Tecnologia</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat2_n2'>
+<li><a  href="/tecnologia/redes/">Redes</a>
+<ul class='dl-submenu'>
+<li><a  href="/productos/productos.php?path=0.2139.3400.4285&amp;secc=productos">Tarjetas de Red Pci Express</a></li>
+<li><a  href="/tecnologia/redes/access-point/">Mesh y Repetidores</a></li>
+<li><a  href="/adaptadores-bluetooth/">Adaptadores Bluetooth</a></li>
+<li><a  href="/adaptadores/">Adaptadores Usb Wifi</a></li>
+<li><a  href="/cables-y-pinzas/">Cables de Red</a></li>
+<li><a  href="/patchera/">Patchera</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.3400.4278&amp;secc=productos">Racks</a></li>
+<li><a  href="/enchufes-wifi/">Enchufes WiFi</a></li>
+<li><a  href="/extensores-y-repetidores/">Repetidores Wifi</a></li>
+<li><a  href="/routers/">Routers</a></li>
+<li><a  href="/switches/">Switches</a></li>
+<li><a  href="/pinzas-de-crimpear/">Pinzas de Crimpear</a></li>
+<li><a  href="/controlador-omada-sdn/">Controlador Omada</a></li>
+<li><a  href="/conversor-de-medios/">Conversor de medios</a></li>
+<li><a  href="/modulos-sfp-y-fibra-optica/">M�dulos SFP y Fibra Optica</a></li>
+</ul>
+<li><a  href="/productos/productos.php?path=0.2139.4257&amp;secc=productos">Accesorios de Notebooks</a>
+<ul class='dl-submenu'>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4258&amp;secc=productos">Accesorios Varios de Notebooks</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4259&amp;secc=productos">Bandejas y disipadores para Notebooks</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4260&amp;secc=productos">Baterias para Notebooks Laptops</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4261&amp;secc=productos">Bolsos para Notebooks</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4262&amp;secc=productos">Cargadores para Notebooks</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4263&amp;secc=productos">Fundas para Notebooks</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4266&amp;secc=productos">Mochilas para Notebooks y Laptops</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.4257.4265&amp;secc=productos">Presentadores Laser</a></li>
+</ul>
+<li><a  href="/baterias-portatiles-powerbanks/">Baterias Portatiles Powerbanks</a>
+<li><a  href="/relojes-y-smartwatches/">Relojes</a>
+<ul class='dl-submenu'>
+<li><a  href="/relojes-smartwatch/">Relojes y Smartwatches</a></li>
+<li><a  href="/accesorios-de-relojes-smartwatches/">Accesorios de Relojes Smartwatches</a></li>
+</ul>
+<li><a  href="/productos/productos.php?path=0.2139.4208&amp;secc=productos">Tablet</a>
+<ul class='dl-submenu'>
+<li><a  href="/tablet-o-tablets/">Tablets</a></li>
+<li><a  href="/accesorios-tablets/">Accesorios Tablets</a></li>
+</ul>
+<li><a  href="/audio/">Audio</a>
+<ul class='dl-submenu'>
+<li><a  href="/asistentes-virtuales-amazon-google/">Asistentes Virtuales</a></li>
+<li><a  href="/auriculares-cableados/">Auriculares Cableados</a></li>
+<li><a  href="/auriculares-inalambricos/">Auriculares Inalambricos</a></li>
+<li><a  href="/barras-de-sonido/">Barras de Sonido</a></li>
+<li><a  href="/parlantes-portatiles/">Parlantes Portatiles</a></li>
+<li><a  href="/radios-portatiles/">Radios Portatiles</a></li>
+<li><a  href="/productos/productos.php?path=0.2139.3833.4279&amp;secc=productos">Tocadiscos</a></li>
+</ul>
+<li><a  href="/camaras-y-accesorios/">C�maras</a>
+<ul class='dl-submenu'>
+<li><a  href="/tecnologia/camaras-y-accesorios/accesorios/">Accesorios</a></li>
+<li><a  href="/camaras-digitales/">Digitales</a></li>
+<li><a  href="/lentes-para-camaras-digitales/">Lentes</a></li>
+</ul>
+<li><a  href="/proyector-y-pantallas/">Proyector</a>
+<ul class='dl-submenu'>
+<li><a  href="/proyectores/">Proyectores</a></li>
+<li><a  href="/pantallas-para-proyectores/">Pantallas para Proyectores</a></li>
+</ul>
+<li><a  href="/amazon-ebooks/">Amazon Ebooks</a>
+<li><a  href="/ups-reguladores-y-alargues/">Proteccion Energetica</a>
+<ul class='dl-submenu'>
+<li><a  href="/alargues/">Alargues</a></li>
+<li><a  href="/reguladores-de-corriente/">Reguladores de Corriente</a></li>
+<li><a  href="/ups/">Ups</a></li>
+</ul>
+<li><a  href="/tecnologia/accesorios-moviles/">Accesorios</a>
+<ul class='dl-submenu'>
+<li><a  href="/cables-y-adaptadores/">Cables y Adaptadores</a></li>
+<li><a  href="/pilas/">Pilas</a></li>
+<li><a  href="/accesorios-para-auto/">Accesorios para Auto</a></li>
+<li><a  href="/estuches-y-protectores/">Estuches y Protectores</a></li>
+<li><a  href="/soportes-para-celular/">Soportes</a></li>
+<li><a  href="/walkie-talkie/">Walkie Talkie</a></li>
+</ul>
+<li><a  href="/cables-para-celulares/">Cables para Celulares</a>
+<li><a  href="/productos/productos.php?path=0.2139.4277&amp;secc=productos">Cargadores para Celulares</a>
+<li><a  href="/pilas-y-baterias/">Pilas y Bater�as</a>
+</ul>
+</li>
+			<li class='csscat9'>
+			<div class='fotocat'><a aria-label="Mundo Gamer" href="/mundo-gamer/"></a></div>
+			<div class="catcont">
+			<a href="/mundo-gamer/"><span>Mundo Gamer</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat9_n2'>
+<li><a  href="/componentes/">Componentes</a>
+<ul class='dl-submenu'>
+<li><a  href="/procesadores/">Procesadores</a><ul class='dl-submenu csscat9_n2'>
+<li><a  href="/procesador-amd/">Procesador AMD</a></li>
+<li><a  href="/procesador-intel/">Procesador Intel</a></li>
+</ul>
+</li>
+<li><a  href="/refrigeracion-y-ventilacion/">Refrigeraci�n y Ventilaci�n</a><ul class='dl-submenu csscat9_n2'>
+<li><a  href="/fan-cooler-gabinete/">Fan Cooler Gabinete</a></li>
+<li><a  href="/refrigeracion-liquida/">Refrigeraci�n L�quida</a></li>
+<li><a  href="/pasta-termica/">Pasta T�rmica</a></li>
+<li><a  href="/disipador-cpu/">Disipador CPU</a></li>
+</ul>
+</li>
+<li><a  href="/tarjeta-de-video/">Tarjeta de Video</a></li>
+<li><a  href="/memorias-ram/">Memorias RAM Gamer</a><ul class='dl-submenu csscat9_n2'>
+<li><a  href="/memorias-gamer-pc/">PC</a></li>
+</ul>
+</li>
+<li><a  href="/placa-madre/">Placa Madre</a></li>
+<li><a  href="/gabinetes-gamer/">Gabinetes Gamer</a><ul class='dl-submenu csscat9_n2'>
+<li><a  href="/full-y-mid-tower/">Full y Mid Tower</a></li>
+</ul>
+</li>
+<li><a  href="/fuentes-de-poder-gaming/">Fuentes de Poder para PC Gamer</a><ul class='dl-submenu csscat9_n2'>
+<li><a  href="/fuentes-de-poder-pc/">Atx</a></li>
+</ul>
+</li>
+<li><a  href="/almacenamiento/">Almacenamiento</a><ul class='dl-submenu csscat9_n2'>
+<li><a  href="/ssd-unidad-estado-solido-m2/">SSD Unidad Estado Solido M2</a></li>
+<li><a  href="/ssd-unidad-estado-solido/">SSD Unidad Estado S�lido Sata</a></li>
+<li><a  href="/hdd-disco-duro-mecanico/">HDD Disco Duro Mec�nico</a></li>
+<li><a  href="/adaptadores-y-cables-hdd-ssd/">Adaptadores y Cables HDD SSD</a></li>
+</ul>
+</li>
+</ul>
+<li><a  href="/notebook-gamer/">Notebooks Gamer</a>
+<li><a  href="/consolas/">Consolas</a>
+<ul class='dl-submenu'>
+<li><a  href="/playstation/">PlayStation</a></li>
+<li><a  href="/nintendo/">Port�tiles</a></li>
+<li><a  href="/joystick-y-accesorios-gamer/">Joystick y Accesorios Gamer</a></li>
+</ul>
+<li><a  href="/streaming/">Streaming</a>
+<ul class='dl-submenu'>
+<li><a  href="/stream-deck/">Stream Deck</a></li>
+<li><a  href="/webcam/">Webcam</a></li>
+<li><a  href="/microfono-streaming/">Micr�fono Streaming</a></li>
+<li><a  href="/iluminacion/">Iluminaci�n Led</a></li>
+</ul>
+<li><a  href="/perifericos-gamer/">Perifericos</a>
+<ul class='dl-submenu'>
+<li><a  href="/auriculares-gamer/">Auriculares</a></li>
+<li><a  href="/kit-teclado-y-mouse-gamer/">Kit Teclado + Mouse</a></li>
+<li><a  href="/mouse-gamer/">Mouse</a></li>
+<li><a  href="/mouse-pad-gamer/">Mouse Pad</a></li>
+<li><a  href="/teclado-gamer/">Teclado</a></li>
+<li><a  href="/volante-gamer/">Volante</a></li>
+</ul>
+<li><a  href="/monitor-gamer/">Monitores</a>
+<li><a  href="/sillas-y-escritorios/">Mobiliario</a>
+<ul class='dl-submenu'>
+<li><a  href="/sillas-gamer/">Sillas</a></li>
+<li><a  href="/escritorio-gamer/">Escritorios</a></li>
+<li><a  href="/decoracion-gamer/">Decoraci�n</a></li>
+</ul>
+</ul>
+</li>
+			<li class='csscat8'>
+			<div class='fotocat'><a aria-label="Celulares" href="/celulares/"></a></div>
+			<div class="catcont">
+			<a href="/celulares/"><span>Celulares</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat8_n2'>
+<li><a  href="/samsung-celulares/">Samsung</a>
+<li><a  href="/xiaomi/">Xiaomi</a>
+<li><a  href="/celulares/blackview/">Blackview</a>
+<li><a  href="/honor/">Honor</a>
+<li><a  href="/celulares/motorola/">Motorola</a>
+<li><a  href="/celulares/nokia/">Nokia</a>
+<li><a  href="/cubot/">Cubot</a>
+<li><a  href="/celulares/hyundai/">Hyundai</a>
+<li><a  href="/logic/">Logic</a>
+</ul>
+</li>
+			<li class='csscat4'>
+			<div class='fotocat'><a aria-label="Inform�tica" href="/informatica-tecno-hardware/"></a></div>
+			<div class="catcont">
+			<a href="/informatica-tecno-hardware/"><span>Inform�tica</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat4_n2'>
+<li><a  href="/pc-computadoras/">PC</a>
+<ul class='dl-submenu'>
+<li><a  href="/productos/productos.php?path=0.2161.3412.4287&amp;secc=productos">Servicio Tecnico Personalizado</a></li>
+</ul>
+<li><a  href="/almacenamiento-flash/">Almacenamiento</a>
+<ul class='dl-submenu'>
+<li><a  href="/productos/productos.php?path=0.2161.3718.4205&amp;secc=productos">Memoria SD</a></li>
+<li><a  href="/disco-mecanico/">Discos Mecanicos</a></li>
+<li><a  href="/discos-externos/">Discos Externos</a></li>
+<li><a  href="/cd/dvd/">CD y DVD</a></li>
+<li><a  href="/grabadoras-de-dvd/">Grabadoras de DVD</a></li>
+<li><a  href="/memorias-micro-sd/">Micro SD</a></li>
+<li><a  href="/pendrives/">Pendrives</a></li>
+</ul>
+<li><a  href="/impresoras/">Impresoras</a>
+<ul class='dl-submenu'>
+<li><a  href="/sistema-continuo/">Sistema Continuo</a></li>
+<li><a  href="/productos/productos.php?path=0.2161.3671.4207&amp;secc=productos">Etiquetadora</a></li>
+<li><a  href="/laser/">L�ser</a></li>
+<li><a  href="/escaners/">Esc�ners</a></li>
+<li><a  href="/cartuchos-toner-e-insumos/">Cartuchos Toner e Insumos</a><ul class='dl-submenu csscat4_n2'>
+<li><a  href="/papel/">Papel</a></li>
+<li><a  href="/cartuchos/">Cartuchos y Tintas</a></li>
+<li><a  href="/toner/">Toner</a></li>
+</ul>
+</li>
+<li><a  href="/productos/productos.php?path=0.2161.3671.4268&amp;secc=productos">3D</a><ul class='dl-submenu csscat4_n2'>
+<li><a  href="/productos/productos.php?path=0.2161.3671.4268.4289&amp;secc=productos">Impresoras</a></li>
+<li><a  href="/productos/productos.php?path=0.2161.3671.4268.4290&amp;secc=productos">Insumos</a></li>
+</ul>
+</li>
+</ul>
+<li><a  href="/perifericos-mouse-teclado-parlante/">Perif�ricos</a>
+<ul class='dl-submenu'>
+<li><a  href="/mouse-usb/">Mouse</a></li>
+<li><a  href="/parlantes-pc-notebook/">Parlantes</a></li>
+<li><a  href="/auriculares-usb-o-spica/">Auriculares</a></li>
+<li><a  href="/camara-web/">C�maras Web</a></li>
+<li><a  href="/gabinetes-externos/">Gabinetes Externos</a></li>
+<li><a  href="/hubs-usb/">Hubs USB</a></li>
+<li><a  href="/kits-de-teclado-y-mouse/">Kit de Teclado y Mouse</a></li>
+<li><a  href="/lectores-de-memorias/">Lectores de Memorias</a></li>
+<li><a  href="/teclado/">Teclados</a><ul class='dl-submenu csscat4_n2'>
+<li><a  href="/teclados/clasicos/">Cl�sicos</a></li>
+</ul>
+</li>
+</ul>
+<li><a  href="/sillas-oficina/">Sillas de Oficina</a>
+<li><a  href="/componentes-de-pc/">Componentes de PC</a>
+<ul class='dl-submenu'>
+<li><a  href="/informatica/componentes-de-pc/memorias-ram/">Memorias Ram</a><ul class='dl-submenu csscat4_n2'>
+<li><a  href="/memorias-pc/">PC</a></li>
+<li><a  href="/memorias-so-dimm-notebook/">Memorias So Dimm Notebook</a></li>
+</ul>
+</li>
+</ul>
+<li><a  href="/monitores-para-la-casa-u-oficina/">Monitores Casa u Oficina</a>
+<li><a  href="/tabletas-digitales/">Tabletas Digitales</a>
+<li><a  href="/accesorios-adaptadores-y-hubs/">Adaptadores</a>
+<li><a  href="/productos/productos.php?path=0.2161.4267&amp;secc=productos">Chromebook Google</a>
+<li><a  href="/kits-de-limpieza/">Kits de Limpieza</a>
+<li><a  href="/software/">Software</a>
+<ul class='dl-submenu'>
+<li><a  href="/informatica/software/office/">Office Familias y Personas</a></li>
+<li><a  href="/informatica/software/sistemas-operativos/">Sistemas Operativos</a></li>
+</ul>
+<li><a  href="/cables/">Cables</a>
+<ul class='dl-submenu'>
+<li><a  href="/cables/usb/">USB</a></li>
+<li><a  href="/cables/hdmi/">HDMI</a></li>
+<li><a  href="/cables/de-poder/">De Poder</a></li>
+<li><a  href="/cables/vga/">VGA</a></li>
+<li><a  href="/cables-de-audio-rca/">Audio</a></li>
+<li><a  href="/cables/dvi/">DVI</a></li>
+<li><a  href="/extensor/">Extensor</a></li>
+<li><a  href="/display-port/">Display Port</a></li>
+<li><a  href="/bobina-de-corriente/">Corriente</a></li>
+</ul>
+</ul>
+</li>
+			<li class='csscat3'>
+			<div class='fotocat'><a aria-label="Apple" href="/apple/"></a></div>
+			<div class="catcont">
+			<a href="/apple/"><span>Apple</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat3_n2'>
+<li><a  href="/macbook/">Macbook</a>
+<li><a  href="/iphone/">iPhone</a>
+<li><a  href="/ipad/">iPad</a>
+<li><a  href="/apple-watch/">Apple Watch</a>
+<li><a  href="/apple/accesorios/">Accesorios</a>
+</ul>
+</li>
+			<li class='csscat6'>
+			<div class='fotocat'><a aria-label="Combos" href="/combos/"></a></div>
+			<div class="catcont">
+			<a href="/combos/"><span>Combos</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat6_n2'>
+<li><a  href="/planchita/">Hogar</a>
+</ul>
+</li>
+			<li class='csscat13'>
+			<div class='fotocat nofotocat'><a aria-label="Empresas" href="/productos-para-empresas/"></a></div>
+			<div class="catcont">
+			<a href="/productos-para-empresas/"><span>Empresas</span></a>
+			
+			</div>
+			<ul class='dl-submenu csscat13_n2'>
+<li><a  href="/all-in-one-todo-en-uno/">All in One</a>
+<li><a  href="/cajon-de-dinero/">Cajon de Dinero</a>
+<li><a  href="/pc-para-empresas/">Equipos Armados</a>
+<ul class='dl-submenu'>
+<li><a  href="/equipos-ref-para-empresas/">Equipos de Escritorio Ref</a></li>
+</ul>
+<li><a  href="/impresora-de-etiquetas/">Impresoras Etiquetas</a>
+<li><a  href="/impresora-de-ticket-termica/">Impresoras Ticket</a>
+<li><a  href="/lector-de-codigo-de-barras/">Lectores de Codigo de Barras</a>
+<li><a  href="/mini-pcs/">Mini PCs</a>
+<li><a  href="/productos/productos.php?path=0.3798.4322&amp;secc=productos">Tablets para Empresas</a>
+<li><a  href="/productos-especiales-para-empresas/">Productos para Empresas</a>
+<li><a  href="/devoluciones-de-mercado-libre/">Devoluciones de Mercado Libre</a>
+</ul>
+</li><li class="csscathide" onclick="aplicar_quitar_clase('productos_categorias_3','csscat_on');"><i class="fal fa-times"></i></li><li class="fx2"></li></ul>
+<div class="fx" onclick="aplicar_quitar_clase('productos_categorias_3','csscat_on');"></div>
+
+
+</div></div></div>
+
+    <!--file_ini:/includes/layout/design/whatsapp1.php-->
+<div id="whatsapp1"><div class="SME-whatsapp"></div>
+<div class="cont"><a href="https://wa.me/59891032323" target="_blank"><i class="fab fa-whatsapp"></i><b>�CONSULTAS?</b></a></div>
+<b></b>
+</div>
+  </div></div>
+  <!--file_ini:/productos/cart/resumen.php-->
+	<div id="ly_cart3" class="cart"><div class="cartcont"><div class="ly_carthide" onclick="aplicar_quitar_clase('ly_cart3','carrito_activo');"></div><div class="cartcont2"><div class="SME-mi_compra"></div>
+	<div class="cart_tit">Mi carrito</div>
+	<div class="opb cerrar"><button onclick="aplicar_quitar_clase('ly_cart3','carrito_activo')"><i class="fal fa-times"></i></button></div>	<!--file_ini:/productos/ordenes3/layout/cart_internas.php-->
+<div class="cartcont3" id="cont_carrito_v3">
+	<div class="cart3" id="cart3">
+
+		<script>var seccion="buscar";</script>
+
+				<div id="ly_cart"></div>
+
+		<div class="u" id="elementos_en_cart"></div>
+
+			<div class="cart_totales">
+				<div class="total_label total_label2">Total</div>
+				<div class="total">
+					<span id="total_cart">
+										USD 0				</span>
+				</div>
+			</div>
+
+		<div class="cart_fin" id="cont_btn_finalizar_compra">
+		<button class="submit0" type="button" onclick="location.href='/productos/ordenes3/orden1.php'"><span>CONTINUAR</span><i class='fas fa fa-play'></i></button>
+	</div>
+
+	</div>
+</div>
+<div class="u"><iframe name="cart_iframe" id="cart_iframe"></iframe></div>
+	</div></div></div>
+	  <!--file_ini:/usuarios/layout/login.php-->
+<div id="ly_login" class="login
+ "
+>
+<div class="cerrar_fondo" onclick="aplicar_quitar_clase('ly_login','login_on')"></div>
+<div class="login2"><div class="login3"><div class="SME-login"></div>
+
+<div class="cerrar opb"><a href="javascript:aplicar_quitar_clase('ly_login','login_on')"><i class="fal fa-times"></i></a></div>
+
+
+<div onclick="location.href='/registro/'" class="img"><span></span></div>
+<div class="login_tit">Usuario</div>
+
+
+	<div class="googlelogin"><div class="SME-google_login"></div><a href="https://tools.sublimesolutions.com/google/login_google.php?url_ret=https%3A%2F%2Fwww.nnet.com.uy%2Fproductos%2Fordenes3%2Fscripts%2Fret_google.php&url_ret_err=https%3A%2F%2Fwww.nnet.com.uy%2Fproductos%2Fordenes3%2Fscripts%2Fret_google.php"><i class='fab fa-google'></i><span>Ingresar con Google</span></a></div>
+		<div class="facebooklogin"><div class="SME-facebook_login"></div><a href="https://tools.sublimesolutions.com/facebook/login_facebook.php?url_ret=https%3A%2F%2Fwww.nnet.com.uy%2Ffblogin%2Flogueado.php&url_ret_err=https%3A%2F%2Fwww.nnet.com.uy%2Ffblogin%2Flogueado.php"><i class="fab fa-facebook"></i><span>Ingresar con Facebook</span></a></div>
+	<div class="spacer2"></div><a href="https://tools.sublimesolutions.com/clientlogin/politicas_de_privacidad.html" target="_blank" class="t13 table marauto tra50">Pol�tica de privacidad</a><div class="spacer3"></div><div class="gen_sepo"><div class="SME-separador_o"></div><span class="sep1"><span></span></span><span class="sep2">o</span><span class="sep3"><span></span></span></div>
+<form target="iframelogin" id="frm_login" class="frm_login" method="post" action="/usuarios/scripts/validar_login.php" onsubmit="return validar_login(this,'Indica usuario y clave. Gracias.')">
+<div class="usuario">
+		<input type="text" id="login_usuario" name="usuario"
+			placeholder="Email"
+	/>
+</div>
+<div class="clave">
+		<input type="password" id="login_clave" name="clave"
+			placeholder="Clave"
+	/>
+<div class="fa fa-fw fa-eye field-icon toggle-password" onclick="togglePassword()"></div>
+</div>
+
+<script>
+function togglePassword(){
+var x = document.getElementById("login_clave");
+if (x.type === "password") {x.type = "text";} else {x.type = "password";}
+}
+</script>
+
+<div class="recordar"><input type="checkbox" id="recordardatos" name="recordardatos" value="1"/><label for="recordardatos">Recordar datos</label></div>
+<div class="submit_cont"><button id="btn_login_submit" type="submit">Ingresar</button></div>
+<div id="login_loader" style="display:none"><div class="loadercont"><div class="loader"></div></div></div>
+
+<div class="loginopciones">
+<div class="olvideclave"><a href="javascript:aplicar_quitar_clase('olvidemisdatos','olvidemisdatos_on');getObj('olvidemisdatos_form').olvideemail.focus()">Olvid� mi clave</a></div>
+<div class="nuevo"><a href="/registro/">Registro</a></div></div>
+
+<input type="hidden" name="dir_return" value="/buscar/resultado.php?q=auricular"/>
+
+<iframe name="iframelogin" id="iframelogin" class="u"></iframe>
+
+</form>
+
+<div id="olvidemisdatos" class="olvidemisdatos">
+<div class="cerrar opb"><a href="javascript:aplicar_quitar_clase('olvidemisdatos','olvidemisdatos_on')"><i class="fal fa-times"></i></a></div>
+<form onsubmit="return validar_olvidemiclave(this)" target="iolvidemisdatos" id="olvidemisdatos_form" method="post" action="/usuarios/scripts/send_clave_paso1.php">
+<div class="intro">Recibir mi clave por email</div>
+<input type="text" name="olvideemail" id="olvideemail" placeholder="Indica tu email."/>
+<input class="submit1" type="submit" value="Listo"/>
+</form>
+<iframe id="iolvidemisdatos" name="iolvidemisdatos" class="u"></iframe>
+</div>
+
+
+
+
+</div></div></div>
+</div>
+<div class="contenedor_2"><div class="SME-contenedor_2"></div>
+  <div class="SME-banner_arriba"></div><div id="banner_arriba"></div>  <div class="SME-banner_arriba_2"></div><div id="banner_arriba2"></div>  <!--file_ini:/includes/layout/design/corpconcepts6.php-->
+
+  <!--file_ini:/includes/layout/design/path.php-->
+		<div class="path1"><div class="path2"><div class="SME-path"></div>
+																	<span class="sep"><i class="fal fa-chevron-right"></i></span>
+						<span><a href="https://www.nnet.com.uy/buscar/resultado.php?id_menu=79&amp;secc=buscar">Resultado de b�squeda</a></span>
+															</div></div>
+		  <!--file_ini:/includes/layout/design/header_seccion_contenido_sublime.php-->
+		
+<!--file_ini:/videos/resumenes/videos_dominios_idioma_seccion.php-->
+<!--file_end:/videos/resumenes/videos_dominios_idioma_seccion.php--></div>
+<div class="contenedor_20"><div class="SME-contenedor_20"></div>
+  <div class="contenedor_21"><div class="SME-contenedor_21"></div>
+    <div class="SME-banner_izquierda"></div><div id="banner_izquierda"></div>    <div id="banner_izquierda2"></div><div class="SME-banner_izquierda_2"></div>  </div>
+  <div class="contenedor_22"><div class="SME-contenedor_22"></div>
+    <div class="buscar_resultado">
+
+<div class="cabecera">
+
+<h1></h1>
+
+
+	3836 encontrados	
+
+</div>
+
+						<br/>
+					<div class="sep1_cont"><div class="sep1_cont2"><div class="SME-separador_1"></div>
+<div class="sep1_text">en  Noticias</div></div>
+</div>
+									<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/empresas-venta-nnet-corporativo/"><img src="" width="" height="" alt="Tenes una empresa?  "/></a></div>
+
+<div class="cont">
+<h2><a href="/empresas-venta-nnet-corporativo/">Tenes una empresa? </a></h2>
+<p><span>SERVICIO A EMPRESASNuestro Departamento de Ventas Corporativas, cuenta con un equipo dedicado exclusivamente a Empresas para garantizar el mejor nivel de atenci�n y servicio. Brindando rapidez y eficacia en la respuesta de cotizaciones con condiciones econ�micas competitivas dentro del Mercado.Les o...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/whatsapp-nnet/"><img src="" width="" height="" alt="WhatsApp 091032323 "/></a></div>
+
+<div class="cont">
+<h2><a href="/whatsapp-nnet/">WhatsApp 091032323</a></h2>
+<p>Envianos un mensaje 091032323</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/noticia/juego-gratis-pc-epic-games/"><img src="" width="" height="" alt="Juego Gratis Epic "/></a></div>
+
+<div class="cont">
+<h2><a href="/noticia/juego-gratis-pc-epic-games/">Juego Gratis Epic</a></h2>
+<p><span>
+
+
+
+
+
+
+
+
+
+
+
+
+Epic Games Store no ha dejado de regalar juegos desde que comenz� a hacerlo con el objetivo de invitar a los usuarios de PC a su plataforma. La estrategia contin�a y de vez en cuando se ofrecen grandes producciones, como las que estar�an en camino.
+
+
+
+
+
+
+
+
+
+
+
+
+...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/noticia/gamepass-contratar/"><img src="" width="" height="" alt="GamePass  "/></a></div>
+
+<div class="cont">
+<h2><a href="/noticia/gamepass-contratar/">GamePass </a></h2>
+<p>Disfruta de cientos de juegos de alta calidad para PC con tus amigos, incluyendo nuevos t�tulos disponibles el mismo d�a de su lanzamiento, y consigue una suscripci�n a EA Play. A�adimos nuevos juegos constantemente, de modo que siempre tienes algo nuevo a lo que jugar.</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/juegos/como-comprar-una-pc-gamer/"><img src="" width="" height="" alt="�Vas a comprar tu primer PC Gamer? Consejos Consejo para comprar tu primer PC Gamer - "/></a></div>
+
+<div class="cont">
+<h2><a href="/juegos/como-comprar-una-pc-gamer/">�Vas a comprar tu primer PC Gamer? Consejos</a></h2>
+<p><span>Puede que las consolas sean la plataforma de juegos m�s popular, pero como sab�is hay much�simas ventajas de jugar en PC y no hablamos solo de su versatilidad (ya que podremos utilizarlos para una infinidad de cosas adem�s de jugar), sino por los juegos �exclusivos� de PC y que no existen en consola...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/24032323/"><img src="" width="" height="" alt="Llamanos 24032323 telefono de NNET - "/></a></div>
+
+<div class="cont">
+<h2><a href="/24032323/">Llamanos 24032323</a></h2>
+<p>De lunes a Viernes de 930 a 1830 y los S�bados de 900 a 1300Llamanos 24032323</p>
+</div>
+
+</div></article>																	<br/>
+					<div class="sep1_cont"><div class="sep1_cont2"><div class="SME-separador_1"></div>
+<div class="sep1_text">en  Productox</div></div>
+</div>
+									<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/cartucho-de-tinta-epson-296-rendimiento-130-paginas-negro-118938/"><img src="" width="" height="" alt="Cartucho de Tinta Epson 296 Rendimiento 130 P�ginas Negro Cartucho de Tinta Epson 296 Rendimiento 130 P�ginas Negro"/></a></div>
+
+<div class="cont">
+<h2><a href="/cartucho-de-tinta-epson-296-rendimiento-130-paginas-negro-118938/">Cartucho de Tinta Epson 296 Rendimiento 130 P�ginas Negro</a></h2>
+<p>�Especificaciones Cartucho Epson 296:</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/termotanque-james-prisma-30-litros-con-tanque-acero-james034/"><img src="" width="" height="" alt="Termotanque James Prisma 30 Litros con Tanque Acero Aislaci�n de Poliuretano Inyectado Nnet - Termotanque James Prisma 30 Litros con Tanque Acero"/></a></div>
+
+<div class="cont">
+<h2><a href="/termotanque-james-prisma-30-litros-con-tanque-acero-james034/">Termotanque James Prisma 30 Litros con Tanque Acero</a></h2>
+<p>Especificaciones:</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/fuente-atx-xtreme-600w-244-pin-sata-fue17/"><img src="" width="" height="" alt="Fuente ATX Xtreme 600W 24+4 pin SATA Conector de 24 4 pines
+ - Fuente ATX Xtreme 600W 24+4 pin SATA"/></a></div>
+
+<div class="cont">
+<h2><a href="/fuente-atx-xtreme-600w-244-pin-sata-fue17/">Fuente ATX Xtreme 600W 24+4 pin SATA</a></h2>
+<p>� � � � �Especificaciones Fuente Xtreme ATX:</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/cable-de-red-patch-cord-categoria-6e-3-metros-cab132/"><img src="" width="" height="" alt="Cable de Red Patch Cord Categor�a 6E 3 Metros Alcance�3 Metros - Cable de Red Patch Cord Categor�a 6E 3 Metros"/></a></div>
+
+<div class="cont">
+<h2><a href="/cable-de-red-patch-cord-categoria-6e-3-metros-cab132/">Cable de Red Patch Cord Categor�a 6E 3 Metros</a></h2>
+<p>�Especificaciones Cable de Red Patch Cord:
+
+
+Tipo Patch Cord
+Categor�a�6E
+Alcance�3 Metros
+Color�Azul
+
+�</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/computacion/cables/adaptadores-y-otros/cable-sata-datos-para-mother-a225/"><img src="" width="" height="" alt="Cable Power para Discos S�lidos SATA Color rojo y negro - Cable Power para Discos S�lidos SATA"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/computacion/cables/adaptadores-y-otros/cable-sata-datos-para-mother-a225/">Cable Power para Discos S�lidos SATA</a></h2>
+<p>�Especificaciones Cable SATA:Conector SATACompatibilidad�con computadoras personales y�discos duros SATA I, II, IIIVelocidad de transferencia de datos 6 GbpsConectores 2x SATA de 7 pines MachoMaterial�tiene una cubierta flexible para permitir una instalaci�n eficientePeso�0,090 kgColor Rojo y Negro</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/computacion/impresoras/insumos/cartucho-original-epson-t2962-cyan-11839/"><img src="" width="" height="" alt="Cartucho Original Epson T2962 Cyan 250 copias Color Cyan - Cartucho Original Epson T2962 Cyan 250 copias"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/computacion/impresoras/insumos/cartucho-original-epson-t2962-cyan-11839/">Cartucho Original Epson T2962 Cyan 250 copias</a></h2>
+<p>�Especificaciones Cartucho Epson�T2962:Marca EpsonModelo�T2962Tipo CartuchoContenido total�4 mLTipo de cartucho OriginalRendimiento 250 copiasCompatibilidad�Epson Expression XP-231�Epson Expression XP-241�Epson Expression XP-431�Epson Expression XP-441Color Cyan�</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/cartucho-de-tinta-epson-t2963-magenta-rendimiento-250-paginas-18940/"><img src="" width="" height="" alt="Cartucho de Tinta Epson T2963 Magenta Rendimiento 250 P�ginas Capacidad 4ml� - Cartucho de Tinta Epson T2963 Magenta Rendimiento 250 P�ginas"/></a></div>
+
+<div class="cont">
+<h2><a href="/cartucho-de-tinta-epson-t2963-magenta-rendimiento-250-paginas-18940/">Cartucho de Tinta Epson T2963 Magenta Rendimiento 250 P�ginas</a></h2>
+<p>�Especificaciones Cartucho de tinta Epson�T2963:Marca�EpsonModelo T2963Tipo Cartucho de TintaCapacidad 4ml�CompatibilidadRendimiento 250 P�ginasColor Magenta</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/computacion/impresoras/insumos/cartucho-original-epson-t2964-yelow-118941/"><img src="" width="" height="" alt="Cartucho de Tinta Epson T2964 Amarillo Rendimiento 250 P�ginas Tipo Cartucho de Tinta
+ - Cartucho de Tinta Epson T2964 Amarillo Rendimiento 250 P�ginas"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/computacion/impresoras/insumos/cartucho-original-epson-t2964-yelow-118941/">Cartucho de Tinta Epson T2964 Amarillo Rendimiento 250 P�ginas</a></h2>
+<p>Especificaciones Cartucho de tinta Epson�T2963:Marca�EpsonModelo T2963Tipo Cartucho de TintaCapacidad 4ml�CompatibilidadRendimiento 250 P�ginasColor Amarillo</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/antena-ledstar-ltv-006-para-tv-digital-ltv-006/"><img src="" width="" height="" alt="Antena Ledstar LTV-006 para Tv Digital Color negro - Antena Ledstar LTV-006 para Tv Digital"/></a></div>
+
+<div class="cont">
+<h2><a href="/antena-ledstar-ltv-006-para-tv-digital-ltv-006/">Antena Ledstar LTV-006 para Tv Digital</a></h2>
+<p>� � � � �Especificaciones Antena Ledstar�LTV-006:Marca LedstarTipo Antena de interiorCable coaxial de 1.5 mtsFrecuencia 470/860 MhzGanancia de antena 10 dBImpedancia 75 ohmsCanales�4, 5, 10, 12, Tv CiudadColor negro</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/hogar-seguridad-splitter-cables-poder-camaras-cctv-1-8-cab93/"><img src="" width="" height="" alt="Splitter de Cables de Poder para C�maras CCTV 1 a 8 Permite conexiones a un adaptador - Splitter de Cables de Poder para C�maras CCTV 1 a 8"/></a></div>
+
+<div class="cont">
+<h2><a href="/hogar-seguridad-splitter-cables-poder-camaras-cctv-1-8-cab93/">Splitter de Cables de Poder para C�maras CCTV 1 a 8</a></h2>
+<p>Splitter de Cables de Poder para Camaras CCTV 1 a 8</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/ventilador-de-pie-james-vca-16-p-50w-3-velocidades-james10016/"><img src="" width="" height="" alt="Ventilador de Pie James VCA-16 P 50W 3 Velocidades 3 Velocidades Nnet - Ventilador de Pie James VCA-16 P 50W 3 Velocidades"/></a></div>
+
+<div class="cont">
+<h2><a href="/ventilador-de-pie-james-vca-16-p-50w-3-velocidades-james10016/">Ventilador de Pie James VCA-16 P 50W 3 Velocidades</a></h2>
+<p>Caracter�sticas3 VelocidadesOscilante400mmAltura: 1700mmPotencia 50 W</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/computacion/impresoras/insumos/cartucho-de-tinta-hp-667-negro-120-paginas-as222hew12/"><img src="" width="" height="" alt="Cartucho de Tinta HP 667 Negro 120 P�ginas Cartucho de Tinta HP 667 Negro 120 P�ginas"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/computacion/impresoras/insumos/cartucho-de-tinta-hp-667-negro-120-paginas-as222hew12/">Cartucho de Tinta HP 667 Negro 120 P�ginas</a></h2>
+<p>Modelo 3YM79ALColor(es) de consumibles de impresi�n NegroTipos de tinta Con base de pigmentoRendimiento de la p�gina (blanco y negro) ~120 p�ginas</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/computacion/perifericos/kit-teclado-y-mouse/combo-teclado-con-mouse-inalambrico-logitech-mk345-195675/"><img src="" width="" height="" alt="Combo Inal�mbrico Teclado + Mouse Logitech Mk345 Combo Inal�mbrico Teclado + Mouse Logitech Mk345"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/computacion/perifericos/kit-teclado-y-mouse/combo-teclado-con-mouse-inalambrico-logitech-mk345-195675/">Combo Inal�mbrico Teclado + Mouse Logitech Mk345</a></h2>
+<p><span>ESPECIFICACIONESDuraci�n de bater�as: 3 a�os1Bater�a: 2 AAAConmutador de encendido/apagado: S�Distribuci�n de tama�o normal y 12 teclas F mejoradas para control de medios:Distancia de funcionamiento inal�mbrico: 10 m m�ximo2Sistema inal�mbrico: Conexi�n inal�mbrica avanzada de 2,4 GHzTecnolog�a de s...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/computacion/impresoras/insumos/cartucho-original-hp-664-negro-118696/"><img src="" width="" height="" alt="Cartucho Original Hp 664 Negro Cartucho Original Hp 664 Negro"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/computacion/impresoras/insumos/cartucho-original-hp-664-negro-118696/">Cartucho Original Hp 664 Negro</a></h2>
+<p><span>COMPATIBLES/ORIGINALES:�ORIGINAL�MARCA:�HP�NUMERO CARTUCHO:�664�IMPRESORAS COMPATIBLES:�Hp�1115, 2135, 3635, 3775, 3835, 4535, 4675COLOR:�NEGROML: 2mlDetalles Extras:Este cartucho de tinta original HP ha sido dise�ado para desarrollar funciones intuitivas a un precio muy accesible.Imprima texto de c...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/catalogo/informatica/perifericos/auriculares/auriculares-logitech-h151-195644/"><img src="" width="" height="" alt="Auriculares Logitech H151 auriculares con micr�fono NNET - Auriculares Logitech H151"/></a></div>
+
+<div class="cont">
+<h2><a href="/catalogo/informatica/perifericos/auriculares/auriculares-logitech-h151-195644/">Auriculares Logitech H151</a></h2>
+<p><span>Especificaciones Auriculares LogitechModelo: H151Impedancia de entrada: 22 ohmiosSensibilidad (auricular): 122 dB +/-3 dBSensibilidad (micr�fono): -44 dBV/Pa +/- 2,5 dBRespuesta de frecuencia (auriculares): 20 Hz - 20 kHzRespuesta de frecuencia (micr�fono): 100Hz - 6.50kHzLongitud de cable: 1,8 mDim...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/hogar-muebles-sillas-de-hogar/mesh-a-998-negra-posabrazos-sil24/"><img src="" width="" height="" alt="Silla de Oficina Mesh A-998 Negra con Posabrazos Color negro (asiento) con negro (respaldo)  - Silla de Oficina Mesh A-998 Negra con Posabrazos"/></a></div>
+
+<div class="cont">
+<h2><a href="/hogar-muebles-sillas-de-hogar/mesh-a-998-negra-posabrazos-sil24/">Silla de Oficina Mesh A-998 Negra con Posabrazos</a></h2>
+<p><span>La Silla de Oficina Mesh A-998 combina dise�o ergon�mico y materiales de alta calidad para brindar m�ximo confort en el trabajo. Su asiento acolchonado est� revestido en tela resistente, mientras que el respaldo de malla microperforada (mesh) permite una excelente ventilaci�n. Incluye sistema hidr�u...</span></p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/joystick-inalambrico-sony-ps5-dualsense-usb-wh-joy88/"><img src="" width="" height="" alt="Joystick Inal�mbrico Sony PS5 DualSense USB WH  Tipo�Inal�mbrico�
+ - Joystick Inal�mbrico Sony PS5 DualSense USB WH "/></a></div>
+
+<div class="cont">
+<h2><a href="/joystick-inalambrico-sony-ps5-dualsense-usb-wh-joy88/">Joystick Inal�mbrico Sony PS5 DualSense USB WH </a></h2>
+<p>� � � � �Especificaciones Joystick Sony DualSense Original:</p>
+</div>
+
+</div></article>																					<article class="item1"><div class="item1cont">
+<div class="SME-item_1"></div>
+
+<div class="foto"><a href="/ventilador-de-pie-james-oscilante-70w-3-velocidades-james9120/"><img src="" width="" height="" alt="Ventilador de Pie James Oscilante 70W 3 Velocidades Potencia 70W Nnet - Ventilador de Pie James Oscilante 70W 3 Velocidades"/></a></div>
+
+<div class="cont">
+<h2><a href="/ventilador-de-pie-james-oscilante-70w-3-velocidades-james9120/">Ventilador de Pie James Oscilante 70W 3 Velocidades</a></h2>
+<p>Caracter�sticasModelo VP 20 MColor BlancoPotencia 70WOscilante3 Velocidades500 mmAltura 1700 mmsku� �JAMES9120</p>
+</div>
+
+</div></article>												
+<div class="pager0"><div class="SME-paginas"></div><div class="pager1">
+
+
+<div class="paginaactiva">1</div><div class="paginainactiva"><a href="/buscar/resultado.php?q=auricular&amp;zona=0&amp;pagina=1">2</a></div><div class="paginainactiva"><a href="/buscar/resultado.php?q=auricular&amp;zona=0&amp;pagina=2">3</a></div>
+<div class="siguiente opb"><a href="/buscar/resultado.php?q=auricular&amp;zona=0&amp;pagina=1"><i class="fal fa-chevron-right"></i></a></div>
+
+</div></div>
+
+</div>  </div>
+</div>
+<div class="contenedor_6"><div class="SME-contenedor_6"></div>
+  <!--file_ini:/productos/resumenes/resumen_recientes.php-->
+<div class="productosrecientes"><div class="SME-recientes"></div>
+<div class="ly_gen4"><div class="SME-bloque_4"></div>
+<div class="titdesc4">
+<h3>Vistas recientes</h3>
+</div>
+
+<div  class="img"><span></span></div>
+<div  class="gen4_c0"><div class="gen4_c1">
+
+
+<div class="recientes">
+
+
+<div class="recientes_busquedas recientes_links">
+<div class="lab">B�squedas recientes</div>
+		<a href="/buscar/resultado.php?buscar="></a>
+		</div>
+
+
+</div>
+
+</div></div>
+
+
+<div class="img3"></div>
+</div>
+</div>
+
+  <div class="SME-banner_abajo"></div><div id="banner_abajo"></div>  <div class="SME-banner_abajo_2"></div><div id="banner_abajo2"></div>  <!--file_ini:/includes/layout/design/banners_super.php-->
+<div id="banner_super_cont"><div style="display:none" id="bs_dialog" class="bs_window"><div class="cerrar opb"><a href="#" class="bs_close"><i class="fal fa-times"></i></a></div>
+<div class="SME-banner_super"></div><div id="banner_super"></div>
+</div><div style="display:none" id="banner_super_mask"></div></div>
+  <!--file_ini:/registro/layout/suscripcion_home_form4.php-->
+<div id="susc4" class="susc4"><div class="susc4cont"><div class="susc4cont1"><div class="SME-newsletter_4"></div>
+
+
+<div  class="img"><span></span></div><p><span>Bolet�n por email</span></p>
+
+<form target="frm_suscribase_news4" id="frm_suscribase4" method="post" action="/registro/scripts/send_mailinglist_grupos.php">
+<div class="susc_nombre">
+<input id="tiny_nombre4" name="tiny_nombre4" type="text" placeholder="Nombre"/>
+</div>
+<div class="email">
+<input id="tiny_email4" name="tiny_email4" type="text" placeholder="Email"/>
+</div>
+<div class="grupos">
+</div>
+
+<script>
+	function onSubmitNEWS(token) {
+		document.getElementById("frm_suscribase4").submit();
+	}
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<div class="submit">
+<button name="btnsubmit4" id="btnsubmit4" class="g-recaptcha" data-sitekey="6LfPMnsiAAAAACjbNfbSAKUAnSOWBfLXwaeeYeax" data-callback='onSubmitNEWS' data-action='submit'>Listo</button>
+</div>
+
+<script>$$asp("tiny_email4")</script>
+</form>
+
+
+<iframe id="frm_suscribase_news4" name="frm_suscribase_news4" class="u"></iframe>
+</div></div></div>
+  <div class="contenedor_7"><div class="SME-contenedor_7"></div>
+    <!--file_ini:/includes/layout/design/menu2.php-->
+<div class="navsubmenu">
+<ul class="csssubmenu"><li class='sep_li'><span class="">NNET</span></li><li ><a   href="/atencion-al-consumidor/">Atenci�n al Consumidor</a><p><span class='fx'></span>En NNET, valoramos la comunicaci�n directa con nuestros clientes y estamos aqu� para ayudarte en todo lo que necesites. </p></li><li ><a   href="/ventas-a-empresas/">Atenci�n a Empresas</a><p><span class='fx'></span>WhatsApp 097538962</p></li><li ><a   href="/ubicacion-nnet/">Ubicaci�n</a><p><span class='fx'></span>Ubicados en la zona de tres cruces desde el a�o 2003, en la calle Eduardo Victor Haedo 2362 esq. Br Artigas a metros de la cruz del papa, frente al Shopping Tres Cruces.</p></li><li ><a   href="/quienes-somos-nnet/">Nosotros</a><p><span class='fx'></span>Somos una empresa especial, nuestro principal objetivo es dar un servicio integral a nuestros clientes, vendi�ndoles lo que realmente precisan.</p></li><li ><a   href="/trabaja-en-nnet/">Trabaja en NNET</a><p><span class='fx'></span>Envianos tus datos para que en cuanto surja una posibilidad de trabajar en NNET te contactaremos.</p></li><li ><a   href="/noticias-news/">Noticias</a><p><span class='fx'></span>Bienvenido a la secci�n de noticias de NNET, tu fuente confiable de informaci�n actualizada sobre tecnolog�a, innovaci�n y los �ltimos acontecimientos en el mundo de los productos tecnol�gicos.</p></li></ul></div>    <!--file_ini:/includes/layout/design/menu3.php-->
+<div class="navfoot">
+<div class="SME-menu_3"></div><ul><li class='sep_li'><span class="">Tienda NNET</span></li><li ><a   href="/retiro-en-tienda/">Retiro en Tienda</a><p><span class='fx'></span>Podes retirar el producto que hayas comprado, coordinando antes para que no tengas esperas.</p></li><li ><a   href="/legales-de-la-politica-de-envios-y-entrega-de-las-mercaderias/">Politica Envios y Tiempos de Entrega</a><p><span class='fx'></span>Aqui te decimos como son los terminos y condiciones.</p></li><li ><a   href="/devoluciones-y-cambio-de-productos/">Pol�tica de Cambios y Devoluciones</a><p><span class='fx'></span>Aqui te decimos toda la politica de devoluciones</p></li><li ><a   href="/parking-gratis/">Parking</a><p><span class='fx'></span>Al venir a NNET, contas con la primera hora de estacionamiento gratis. Por la calle Mario Casinoni, al presentar el cup�n, te lo firmamos y podes estacionar media hora gratis.</p></li><li ><a   href="/mundo-gamer-gaming/">Productos</a></li><li ><a   href="/marcas/">Marcas</a><p><span class='fx'></span>En NNET, trabajamos con las marcas m�s reconocidas y confiables del mundo tecnol�gico para ofrecerte una amplia gama de productos de alta calidad. Nuestra selecci�n incluye las �ltimas innovaciones y tecnolog�as de marcas l�deres que garantizan rendimiento, durabilidad y valor. Desde equipos inform�ticos hasta perif�ricos y accesorios, nuestras marcas asociadas representan lo mejor en el mercado para satisfacer todas tus necesidades tecnol�gicas.</p></li><li ><a   href="/ofertas/">Ofertas</a></li><li ><a   href="/outlet/">Outlet</a></li><li ><a   href="/formas-de-pago/">Formas de Pago</a><p><span class='fx'></span>Paga como quieras, con los medios de pago, que sean m�s convenientes para vos.</p></li></ul></div>    <!--file_ini:/includes/layout/design/menu5.php-->
+<div class="menuprivado">
+<div class="SME-menu_5"></div><ul><li class='sep_li'><span class="">Ayuda</span></li><li ><a  target="_blank" href="http://www.nnet.com.uy/garantia/">Garant�as</a><p><span class='fx'></span>En NNET, tu satisfacci�n y tranquilidad son nuestra prioridad. Por eso, ofrecemos garant�as completas en todos nuestros productos, asegurando tu confianza en cada compra.</p></li><li ><a   href="/politica-de-cookies/">Cookies</a><p><span class='fx'></span>Cuidamos tus datos.</p></li><li ><a   href="/note20/">T�rminos y Condiciones NOTE20</a><p><span class='fx'></span>T�rminos y Condiciones de la promoci�n 20% de dto. en NNET</p></li><li ><a   href="/mundog20/">T�rminos y Condiciones MundoG20</a><p><span class='fx'></span>Promo MundoG20 con descuentos para todos los amantes del MundoGamer</p></li><li ><a   href="/ayuda/">Ayuda</a><p><span class='fx'></span>Bienvenido al centro de ayudas</p></li><li ><a   href="/preguntas-frecuentes/">Preguntas Frecuentes</a></li></ul></div>    <!--file_ini:/includes/layout/design/redes_sociales_links.php-->
+<div class="redes_sociales_big">
+
+
+<div  class="img"><span></span></div><div class="cont0"><div class="SME-redes_sociales_1"></div>
+<div class="redestxt">Seguinos</div>
+<div class="cont00">
+								<div class="whatsapp">
+		<a href="https://wa.me/59891032323" target="_blank"><i class="fab fa-whatsapp"></i><span>Whatsapp</span></a>
+		</div>
+									<div class="add2">
+		<a  target="_blank" href="https://www.tiktok.com/@nneturuguay">
+																			</a>
+		</div>
+										<div class="instagram">
+		<a  target="_blank" href="https://www.instagram.com/nnet_uruguay/">
+												<i class="fab fa-instagram"></i><span>Instagram</span>							</a>
+		</div>
+										<div class="facebook">
+		<a  target="_blank" href="https://www.facebook.com/nnetoficial">
+												<i class="fab fa-facebook"></i><span>Facebook</span>							</a>
+		</div>
+										<div class="youtube">
+		<a  target="_blank" href="https://www.youtube.com/@Gustavo_Nahmod">
+												<i class="fab fa-youtube"></i><span>Youtube</span>							</a>
+		</div>
+										<div class="twitter">
+		<a  target="_blank" href="https://x.com/nneturuguay?lang=es">
+												<i class="fab fa-twitter vh"></i><span>Twitter</span>							</a>
+		</div>
+										<div class="linkedin">
+		<a  target="_blank" href="https://www.linkedin.com/company/nnet-uruguay/?originalSubdomain=uy">
+												<i class="fab fa-linkedin"></i><span>Linkedin</span>							</a>
+		</div>
+				
+</div></div>
+</div>  </div>
+  <!--file_ini:/includes/layout/design/footer.php-->
+<footer id="superfoot"><div class="superfoot2 "><div id="footer"><div class="footcont"><div class="SME-pie_1"></div>
+<div class="footacc2"></div>
+<div class="subir"><a id="go_top"><i class="fal fa-chevron-up"></i></a></div>
+<div class="footnota"><strong>En NNET encontr�s tecnolog�a, notebooks, PC gamer, electrodom�sticos y productos para el hogar con env�o r�pido en todo Uruguay.</strong><br/><br/>Algunos art�culos est�n en el local (Eduardo V�ctor Haedo 2362) y otros se entregan desde dep�sitos con env�os en 24 a 72 horas.<br/>Consult� stock antes de venir o ped� entrega inmediata.<br/><br/>Aqui te dejo los legales de las condiciones de envios y de entrega de mercaderia.<br/>https://www.nnet.com.uy/legales-de-la-politica-de-envios-y-entrega-de-las-mercaderias/<br/><br/>Tambi�n para que puedas saber las politicas de cambios y devoluciones aqui.<br/>https://www.nnet.com.uy/devoluciones-y-cambio-de-productos/<br/><br/>Llamanos al 24032323 que estamos para atenderte.<br/><br/>El producto que tenga un Tag o Sello de "Envio Gratis", solo ser� v�lido para entregas en Montevideo y el Area Metropolitana.<br/><br/>El Tag "Entrega Coordinada" significa que el producto se entrega coordinando con el departamento de ventas. <br/>El Tag "Retiro Inmediato" significa que el producto se puede retirar en el mismo momento en el local de NNET, de la zona de Tres Cruces en la calla Eduardo Victor Haedo 2362.<br/><br/>Garant�a: <a href="/garantia/" target="_blank">nnet.com.uy/garantia</a><br/>WhatsApp: <a href="https://wa.me/59891032323">091 032 323</a><br/>Email: <a href="mailto:atencionalconsumidor@nnet.com.uy">atencionalconsumidor@nnet.com.uy</a><br/><br/>Ventas a empresas: mejores precios, atenci�n prioritaria y asesoramiento inmediato para oficinas, instituciones y comercios.<br/>Email: <a href="mailto:gisselle.melo@nnet.com.uy">gisselle.melo@nnet.com.uy</a> - <a href="mailto:empresas@nnet.com.uy">empresas@nnet.com.uy</a><br/><br/>Precios en d�lares con impuestos. Promociones no acumulables y sujetas a disponibilidad. Algunos productos son solo para env�o.<br/><br/>Gracias por elegir NNET, l�der en tecnolog�a y hogar en Uruguay.<br/>NNET � Dabitec S.A. (RUT 214891620012)</div><div class="copyr"><div class="cospeech"></div><div class="cospeech2">� Copyright 2026 <span>NNET</span></div></div>
+<div class="by">
+<div class="credits"><a title="Creaci�n de proyectos de internet, p�ginas web, ecommerce, dise�o de sitios web, servicios de internet profesionales." href="http://www.sublimesolutions.com" target="_blank">By SUBLIMESOLUTIONS.com</a></div>
+</div>
+</div></div></div></footer></div>
+
+
+
+<div id="cargando_dinamico" class="cargando_dinamico"><div class='cargando'><div class='acc1'></div><div class='loadercont'><div class='loader'></div><div class='estado'>Cargando...</div></div></div></div>
+<div style="display:none" id="ly_iframe_container"><div class="SME-url_externa"></div>
+<div class="cerrar"><button onclick="CERRAR_IFRAME_PROD_URL_EXTERNA()"><i class="fa fa-times"></i></button></div>
+<iframe id="iframe_contenido_externo" name="iframe_contenido_externo"></iframe>
+<div class="u">
+<span id="item_url_externa_nombre"></span>
+<a id="item_url_externa_link">ver m�s...</a>
+</div>
+</div>
+
+<a id="bottom"></a>
+<script src="/productos/cart/js/cart.php?r=1111"></script>
+<script src="/productos/ordenes3/js/cart.php?v=31"></script>
+<script>
+
+
+var intClock=0;
+if (getObj("hora")!=null) {
+updateClock();
+intClock=setInterval("updateClock()", 1000);
+}
+
+
+		var d = document.createElement('div');
+		d.setAttribute("id","fb-root");
+		document.body.appendChild(d);
+
+		window.fbAsyncInit = function() {
+			FB.init({
+				status : true,				cookie : true,				xfbml  : true			});
+		};
+
+		(function() {
+			var e = document.createElement('script');
+			e.src = document.location.protocol + '//connect.facebook.net/es_ES/all.js';
+			e.async = true;
+			var b = document.getElementById('fb-root');
+			if (b!=null) b.appendChild(e);
+		}());
+		
+timer_refresh_timer=setInterval("keep_alive();", 900000);
+
+var intAutocomplete=setInterval("disable_autocomplete()", 1500);
+
+
+
+
+
+
+
+
+var MLS=0;
+
+
+
+
+
+
+
+
+
+
+</script>
+
+<script src="/banners/banners.php?seccion=buscar&amp;path=&amp;idc=&banner_super_forzar="></script>
+<!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGVGV3Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<script>
+
+		function ocultar_continuar() {
+
+	o=getObj("cart3_continuar_compra_but_continuar");
+	if (o!=null) o.style.display="none";
+
+}
+
+function mostrar_continuar() {
+
+	o=getObj("cart3_continuar_compra_but_continuar");
+	if (o!=null) o.style.display="";
+
+}
+
+function delCart3Session(key) {
+
+	if (typeof(Storage) !== "undefined") { 
+		localStorage.removeItem(key);
+
+	} else {
+
+		document.cookie = key + "=; expires==Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+
+	}
+
+}
+
+function getCart3Session(key) {
+
+	if (typeof(Storage) !== "undefined") { 
+		return localStorage.getItem(key);
+
+	} else {
+
+		return getCookie(key);
+
+	}
+
+}
+
+function setCart3Session(key, value) {
+
+	if (typeof(Storage) !== "undefined") { 
+		localStorage.setItem(key, value);
+
+	} else {
+
+		document.cookie = key + "=" + value +"; expires=Thu, 04 Mar 2027 00:00:00 -0300; path=/";
+
+	}
+
+}
+
+function getCookie(cname) {
+
+  var name = cname + "=";
+  var ca = document.cookie.split(';');
+  for(var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+
+}
+	  if (getCart3Session("sessioncart")) {
+
+			url = "/productos/ordenes3/js/init_usr.php?i="+getCart3Session("sessioncart");
+
+	  }	else {
+
+	    setCart3Session("sessioncart" , "0001-a73c3edb-69a83a0b-2296-f6ecddac");
+	    url = "/productos/ordenes3/js/regusr.php?i=b663271a9369bd45aaf08a989ce6046db65089898e0d35f3b32a180a2d33183c5e732aa653b1738350d5731ec3cf95f306198bc672faf555";
+
+	  }
+
+		crear_script_tag(url,"init_usr");
+
+	</script>
+	</body>
+</html>
