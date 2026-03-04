@@ -15,6 +15,7 @@ router.get('/search', async (req, res) => {
         // Buscamos en Sistema UFO (Ejemplo de URL)
         const searchUrl = `https://sistemaufo.com.uy/?s=${encodeURIComponent(q)}&post_type=product`;
         const response = await axios.get(searchUrl, {
+            timeout: 15000,
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
             }
