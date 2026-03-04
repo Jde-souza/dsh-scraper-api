@@ -27,9 +27,6 @@ router.get('/search', async (req, res) => {
 
         // Selectores para WooCommerce clásico (usado típicamente por Sistema UFO)
         $('li.product, .product').each((index, element) => {
-            // Limitar resultados
-            if (index >= 12) return;
-
             const title = $(element).find('.woocommerce-loop-product__title, h2').text().trim();
 
             let priceRaw = $(element).find('.price').text().trim();

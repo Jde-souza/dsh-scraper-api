@@ -32,7 +32,6 @@ router.get('/search', async (req, res) => {
         });
 
         productLinks.each((index, el) => {
-            if (index >= 12) return;
             const parent = $(el).closest('.it, li');
 
             const title = $(el).attr('title') || parent.find('.nom, h2').text().trim();
